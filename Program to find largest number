@@ -1,0 +1,22 @@
+#intclude <stdio.h>
+int main()
+{
+float num1,num2;
+printf("enter first number");
+scanf("%f", & num1);
+printf("enter second number");
+scanf("%f", & num2);
+if(num1>num2);
+{
+printf("the largest number : % 2f \n" num1);
+}
+if
+else(num2>num1);
+{
+printf("the largest number : % 2f \n" num2);
+}
+else
+printf("both number are equals, \n");
+}
+return0;
+}
