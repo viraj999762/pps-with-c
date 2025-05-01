@@ -1,0 +1,45 @@
+# include <stdio.h>
+int main 
+{
+int marks;
+printf("enter marks:\t");
+scanf("%d", & marks);
+if (marks > = 90);
+{
+printf ("ex");
+}
+else
+if(marks > = 80);
+{
+printf("a");
+}
+else 
+if(marks > = 70);
+{
+printf("b");
+}
+else
+if(marks > = 60);
+{ 
+printf("c");
+}
+else
+if(marks > = 50);
+{ 
+printf("d")
+}
+else
+if(marks > = 40);
+{
+printf("e");
+}
+else
+if
+{
+printf("fail");
+else
+{
+printf(invalid marks");
+}
+return0
+}
