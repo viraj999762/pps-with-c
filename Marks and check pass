@@ -1,0 +1,15 @@
+# include <stdio.h>
+int main()
+{
+int marks;
+printf("enter marks:\t");
+scanf("%d", & marks);
+if(marks = 40);
+{
+printf("pass");
+}
+printf("end of program")
+return0;
+}
+
+   
